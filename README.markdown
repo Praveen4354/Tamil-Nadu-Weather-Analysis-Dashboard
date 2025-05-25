@@ -1,7 +1,7 @@
 # Tamil Nadu Weather Analysis Dashboard
 
 ## Project Overview
-The **Tamil Nadu Weather Analysis Dashboard** is a Streamlit-based web application designed to explore, visualize, and predict weather patterns across Tamil Nadu districts using historical weather data. The project leverages the `Master3.csv` dataset, which contains detailed meteorological data (e.g., temperature, precipitation, humidity, wind speed) for districts like Ariyalur. The dashboard provides interactive visualizations and predictive analytics, including univariate, bivariate, multivariate, and aggregated analyses, along with machine learning models for predicting the Standardized Precipitation Index (SPI).
+The **Tamil Nadu Weather Analysis Dashboard** is a Streamlit-based web application designed to explore, visualize, and predict weather patterns across Tamil Nadu districts using historical weather data. The project leverages the `Master3.csv` dataset, which contains detailed meteorological data (e.g., temperature, precipitation, humidity, wind speed) for districts. The dashboard provides interactive visualizations and predictive analytics, including univariate, bivariate, multivariate, and aggregated analyses, along with machine learning models for predicting the Standardized Precipitation Index (SPI).
 
 The project aims to:
 - Analyze weather trends across Tamil Nadu districts.
@@ -159,10 +159,6 @@ The dashboard is divided into five main sections, accessible via Streamlit pages
 - Enhance interactivity with more filters (e.g., time periods, specific weather conditions).
 - Include additional ML models or hyperparameter tuning for improved SPI predictions.
 - Optimize performance for large datasets using caching or database integration.
-
-## Contributors
-- [Your Name/Group Name] (update with your details)
-- Developed as part of a mini-project for MIT, Semester 4.
 
 ## License
 This project is licensed under the MIT License.
